@@ -1,0 +1,5 @@
+react/node_modules
+express/node_modules
+
+express/.env
+react/.env
